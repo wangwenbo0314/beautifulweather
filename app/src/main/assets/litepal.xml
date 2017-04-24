@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="beautiful_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.administrator.beautifulweather.db.Province"/>
+        <mapping class="com.example.administrator.beautifulweather.db.City"/>
+        <mapping class="com.example.administrator.beautifulweather.db.County"/>
+    </list>
+</litepal>
